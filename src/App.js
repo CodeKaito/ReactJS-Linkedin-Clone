@@ -1,11 +1,16 @@
 import React from 'react';
-import { Counter } from './features/counter/Counter';
-import { Header } from './components';
+import { Header, Sidebar, Feed, Widgets } from './components';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Header />
+
+      <div className='app__body'>
+        <Sidebar />
+        {/* <Feed />
+        <Widgets /> */}
+      </div>
     </div>
   );
 }

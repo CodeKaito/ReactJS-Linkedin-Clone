@@ -1,0 +1,6 @@
+.feed {
+    position: sticky;
+    border-radius: 10px;
+    text-align: center;
+    height: fit-content;
+}
