@@ -10,3 +10,12 @@
 .headerOption:hover {
     color: black;
 }
+
+.headerOption__title {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.headerOption__image {
+    width: 10px;
+}
