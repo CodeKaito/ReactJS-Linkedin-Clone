@@ -35,3 +35,7 @@
     font-weight: 400;
     color: rgba(0,0,0,0.6);
 }
+
+.sidebar__top > img {
+    margin-bottom: -10px;
+}
