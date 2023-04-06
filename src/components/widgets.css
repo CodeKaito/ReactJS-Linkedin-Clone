@@ -1,0 +1,9 @@
+.widgets {
+    position: sticky;
+    flex: 0.2;
+    border-radius: 10px;
+    text-align: center;
+    height: fit-content;
+    width: 40px !important;
+    margin-top: 1em;
+}

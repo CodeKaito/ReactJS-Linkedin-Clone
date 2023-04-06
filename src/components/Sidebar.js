@@ -8,7 +8,7 @@ function Sidebar() {
   return (
     <div className='sidebar'>
         <div className="sidebar__top">
-            <img src="https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg" alt="" />
+            <img src="https://media.licdn.com/dms/image/D4D16AQFBzmhe2-zgrw/profile-displaybackgroundimage-shrink_350_1400/0/1679331637969?e=1686182400&v=beta&t=qjDiGoqZeP8HU-0oNIxWb-4W_ZO0WkFEde4SZ2sCx74" alt="" />
             <Avatar className='sidebar__avatar' />
             <h2>Jerome Decinco</h2>
             <h4>OOP | Fullstack Developer | Software Engineer | System Engineer | ITS <br />
